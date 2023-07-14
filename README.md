@@ -23,8 +23,8 @@ A live demo of the Dyna Musicmaster App can be accessed [here](https://dyna-musi
 
 ## Screenshots 📷
 
-![Screenshot 1](/path/to/screenshot-1.png)
-![Screenshot 2](/path/to/screenshot-2.png)
+![Screenshot 1](https://github.com/Utkarssh11/Dyna-Musicmaster/blob/main/Screenshot%20(423).png?raw=true)
+![Screenshot 2](https://github.com/Utkarssh11/Dyna-Musicmaster/blob/main/WhatsApp%20Image%202023-07-14%20at%205.12.25%20PM.jpeg?raw=true)
 
 ## License 📄
 
